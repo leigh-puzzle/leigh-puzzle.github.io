@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<img src="hellscape 2.gif" usemap="#image-map">
+
+<map name="image-map">
+    <area target="" alt="read the hellhound's message" title="read the hellhound's message" href="placeholder" coords="533,371,751,432" shape="rect">
+</map>
+
+</body>
+</html>
